@@ -1,0 +1,10 @@
+body {
+  text-align:center;
+}
+h3 {
+  font-size: 25px;
+  color: blueviolet;
+}
+#Image {
+background: linear-gradient(#20c8cb 0%,#218bcc 100%);
+}
